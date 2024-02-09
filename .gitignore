@@ -12,23 +12,13 @@ __pycache__/
 .spyproject/
 
 *.jsonl
-*.csv
-!tests/csv_files/*.csv
 .terraform/
 *.tfplan
 *.tfstate
 *.tfstate.backup
 *.tfvars
 
-.ipynb_checkpoints/
-
-
-city.list.json
-
 htmlcov/
 .coverage
 .python-version
-commands.txt
 
-*deploy/*.zip
-csv_files_backup/
